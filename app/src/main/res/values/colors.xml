@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_blue">#0086D4</color>
+    <color name="permission_granted">#20B000</color>
+    <color name="permission_denied">#B00020</color>
+</resources>

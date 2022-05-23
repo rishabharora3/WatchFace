@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HeartMonitor</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_analog_name">HeartMonitor</string>
+    <string name="measure_status">Status: %1$s</string>
+    <string name="hello_wear_activity_main">Happy equals approved, sad equals denied.\n\nTo see results or request permissions, click on the buttons above.</string>
+    <string name="button_wear_label_activity_main">Wear Sensors</string>
+    <string name="user_denied_remote_permission">User denied permission on remote device.</string>
+    <string name="user_approved_remote_permission">User approved permission on remote device, requesting data again.</string>
+    <string name="requested_local_permission">Requested local permission.</string>
+    <string name="sensor_summary">%1$d sensors on wear device(s)!</string>
+
+</resources>
