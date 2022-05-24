@@ -34,3 +34,8 @@ References:
 Author: Rishabh Arora
 
 
+Screenshots:
+
+![Screenshot_20220329_203805](https://user-images.githubusercontent.com/14349274/170135348-ae85f09a-3553-41ea-9981-cbfc0a9dedea.png)
+![Screenshot_20220329_203835](https://user-images.githubusercontent.com/14349274/170135355-f766695d-8e52-4753-aa5b-504d90bf4019.png)
+![Screenshot_20220329_210519](https://user-images.githubusercontent.com/14349274/170135362-50f448d9-e8cc-4a69-8e8f-5dbba079e34f.png)
