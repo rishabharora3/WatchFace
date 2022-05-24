@@ -20,7 +20,7 @@ Last heart rate is being tracked by querying the database.
 Project has been tested using the Virtual Senors -> Additional sensors -> Heart Rate (bpm) in the
 emulator options.
 
-A demo video for the project has been attached in the zip.
+A demo video for the project has been attached.
 
 Thank You!
 
