@@ -1,9 +1,6 @@
 ## Application Recording:
 
-
-https://user-images.githubusercontent.com/14349274/170134793-91075070-8779-4b82-ae03-4427c2c2b477.mp4
-
-
+https://user-images.githubusercontent.com/14349274/170134901-3143a69f-54e3-4875-ad43-0f3b41dd7a01.mp4
 
 
 # Heart Rate Monitor
