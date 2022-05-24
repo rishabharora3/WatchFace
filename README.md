@@ -1,3 +1,11 @@
+## Application Recording:
+
+
+https://user-images.githubusercontent.com/14349274/170134793-91075070-8779-4b82-ae03-4427c2c2b477.mp4
+
+
+
+
 # Heart Rate Monitor
 
 An application demonstrates the rapid heart rate updates using the `MeasureClient`
