@@ -1,6 +1,6 @@
 # Heart Rate Watch Face
 
-![Heart Rate Watch Face Demo](https://user-images.githubusercontent.com/14349274/170134901-3143a69f-54e3-4875-ad43-0f3b41dd7a01.mp4)
+https://user-images.githubusercontent.com/14349274/170134901-3143a69f-54e3-4875-ad43-0f3b41dd7a01.mp4
 
 A dynamic watch face that displays real-time heart rate information using the `MeasureClient` API.
 
