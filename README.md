@@ -1,41 +1,38 @@
-## Application Recording:
+# Heart Rate Watch Face
 
-https://user-images.githubusercontent.com/14349274/170134901-3143a69f-54e3-4875-ad43-0f3b41dd7a01.mp4
+![Heart Rate Watch Face Demo](https://user-images.githubusercontent.com/14349274/170134901-3143a69f-54e3-4875-ad43-0f3b41dd7a01.mp4)
 
+A dynamic watch face that displays real-time heart rate information using the `MeasureClient` API.
 
-# Heart Rate Monitor
+## Overview
 
-An application demonstrates the rapid heart rate updates using the `MeasureClient`
-API.
+This project demonstrates a watch face designed to provide continuous updates on the user's heart rate. It leverages the `MeasureClient` API to fetch real-time data.
 
-### Running the application
+## Getting Started
 
-You will need a Wear device or emulator with Health Services installed. Open the project in Android
-Studio and launch the app on your device or emulator.
+To preview this watch face, make sure you have a Wear OS device with Health Services installed. Open the project in Android Studio, then deploy and select the watch face on your device.
 
-On startup, the app shows a screen where the user needs to click to allow the permission for BODY
-SENSORS. Once enabled, the heart rate is tracked every 10 seconds and stored in a Room database.
-Last heart rate is being tracked by querying the database.
+On initial launch, the watch face will prompt the user for BODY SENSORS permission. Once granted, it will begin displaying the heart rate data.
 
-Project has been tested using the Virtual Senors -> Additional sensors -> Heart Rate (bpm) in the
-emulator options.
+Please note that this watch face has been tested using the Virtual Sensors option in the emulator settings.
 
-A demo video for the project has been attached.
+## Demo Video
 
-Thank You!
+A demo video showcasing the watch face in action can be viewed [here](https://user-images.githubusercontent.com/14349274/170134901-3143a69f-54e3-4875-ad43-0f3b41dd7a01.mp4).
 
-References:
+## References
 
-1. https://developer.android.com/training/wearables/health-services
-2. https://github.com/android/health-samples
-3. https://github.com/android/wear-os-samples/tree/main/RuntimePermissionsWear
-4. https://developer.android.com/training/wearables/data/wear-permissions
+1. [Android Wearables - Health Services](https://developer.android.com/training/wearables/health-services)
+2. [Android Health Samples](https://github.com/android/health-samples)
+3. [Wear OS Samples - Runtime Permissions](https://github.com/android/wear-os-samples/tree/main/RuntimePermissionsWear)
+4. [Android Wearables - Data Permissions](https://developer.android.com/training/wearables/data/wear-permissions)
+
+## Screenshots
+
+![Screenshot 1](https://user-images.githubusercontent.com/14349274/170135348-ae85f09a-3553-41ea-9981-cbfc0a9dedea.png)
+![Screenshot 2](https://user-images.githubusercontent.com/14349274/170135355-f766695d-8e52-4753-aa5b-504d90bf4019.png)
+![Screenshot 3](https://user-images.githubusercontent.com/14349274/170135362-50f448d9-e8cc-4a69-8e8f-5dbba079e34f.png)
+
+---
 
 Author: Rishabh Arora
-
-
-Screenshots:
-
-![Screenshot_20220329_203805](https://user-images.githubusercontent.com/14349274/170135348-ae85f09a-3553-41ea-9981-cbfc0a9dedea.png)
-![Screenshot_20220329_203835](https://user-images.githubusercontent.com/14349274/170135355-f766695d-8e52-4753-aa5b-504d90bf4019.png)
-![Screenshot_20220329_210519](https://user-images.githubusercontent.com/14349274/170135362-50f448d9-e8cc-4a69-8e8f-5dbba079e34f.png)
